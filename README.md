@@ -1,4 +1,6 @@
 # reference-guide
 
-[Array Methods](/araymethods/README.md)
-[CSS](/css/README.md)
+| Name | Link |
+|----------|----------|
+| Array Functions | [Link](/araymethods/README.md)|
+| CSS | [Link](/css/README.md) |
