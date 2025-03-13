@@ -1,3 +1,3 @@
 # reference-guide
 
-[Array Methods](arraymethods/README.md)
+[Array Methods](arraymethods/)
