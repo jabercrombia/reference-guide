@@ -5,3 +5,4 @@
 | Array Functions | [Link](/araymethods/README.md)|
 | CSS | [Link](/css/README.md) |
 | Sliding Window | [Link](/slidingwindow/README.md) |
+| Counter | [Link](/counter/README.md) |
