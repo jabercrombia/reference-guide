@@ -1,4 +1,4 @@
-# Optimized Sliding Window Approach (O(n))
+# Optimized Sliding Window
 
 ## Overview
 The **Sliding Window** technique is an efficient way to solve problems involving contiguous subarrays. Instead of recalculating sums from scratch, we use a window that slides across the array to maintain an optimized computation.
